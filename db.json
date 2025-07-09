@@ -1,0 +1,4 @@
+[
+  { "id": 1, "body": "Some comment", "postId": 1, "user": { "id": 1, "name": "Sanjeev Gupta", "email": "sanjeev@example.com", "company": "Innovate Inc." } },
+  { "id": 2, "body": "Another comment", "postId": 1, "user": { "id": 2, "name": "Jane Doe", "email": "jane@example.com", "company": "Solutions Corp." } }
+]
